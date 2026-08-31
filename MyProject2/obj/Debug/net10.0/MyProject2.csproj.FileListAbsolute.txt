@@ -1,0 +1,14 @@
+/Users/apple/RiderProjects/MyProject2/MyProject2/obj/Debug/net10.0/MyProject2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/MyProject2/MyProject2/obj/Debug/net10.0/MyProject2.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/MyProject2/MyProject2/obj/Debug/net10.0/MyProject2.AssemblyInfo.cs
+/Users/apple/RiderProjects/MyProject2/MyProject2/obj/Debug/net10.0/MyProject2.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/MyProject2/MyProject2/bin/Debug/net10.0/MyProject2
+/Users/apple/RiderProjects/MyProject2/MyProject2/bin/Debug/net10.0/MyProject2.deps.json
+/Users/apple/RiderProjects/MyProject2/MyProject2/bin/Debug/net10.0/MyProject2.runtimeconfig.json
+/Users/apple/RiderProjects/MyProject2/MyProject2/bin/Debug/net10.0/MyProject2.dll
+/Users/apple/RiderProjects/MyProject2/MyProject2/bin/Debug/net10.0/MyProject2.pdb
+/Users/apple/RiderProjects/MyProject2/MyProject2/obj/Debug/net10.0/MyProject2.dll
+/Users/apple/RiderProjects/MyProject2/MyProject2/obj/Debug/net10.0/refint/MyProject2.dll
+/Users/apple/RiderProjects/MyProject2/MyProject2/obj/Debug/net10.0/MyProject2.pdb
+/Users/apple/RiderProjects/MyProject2/MyProject2/obj/Debug/net10.0/MyProject2.genruntimeconfig.cache
+/Users/apple/RiderProjects/MyProject2/MyProject2/obj/Debug/net10.0/ref/MyProject2.dll
